@@ -1,0 +1,41 @@
+{
+    "Education" :[
+        {
+            "id": 1,
+            "year": "2025",
+            "Course" : "Full Stack Development Course",
+            "Location" : "Nettech India , Andheri"
+            
+        },
+
+         {
+            "id": 2,
+            "year": "2024",
+            "Course" : "Bachelor's in Information Technology",
+            "Location" : "Smt. K. G Mittal College"
+            
+        },
+
+         {
+            "id": 3,
+            "year": "2021",
+            "Course" : "12th-HSC",
+            "Location" : "Nirmal JR College of Commerce and Science "
+            
+        },
+
+        {
+            "id": 4,
+            "year": "2019",
+            "Course" : "10th-SSC",
+            "Location" : "St. Lawrence High School"
+            
+        }
+
+        
+    ]
+
+}
+    
+
+    
