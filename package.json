@@ -1,0 +1,15 @@
+{
+  "name": "portfolio_api",
+  "version": "1.0.0",
+  "description": "Create the API for my Portfolio own Website which renders my all info about the Education and my All BioData",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
