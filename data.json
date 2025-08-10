@@ -2,7 +2,7 @@
     "posts": [
         {
             "id": 1,
-            "img": "./assets/cr1.png",
+           "img": "./assets/cr1.png",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
