@@ -4,16 +4,16 @@
             "id": 1,
            "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2011D106001_1.jpg",
             "h1": "Solid Tshirt",
-            "code": "3743877384",
+            "code": "",
             "price": "Rs. 1399"
         },
 
         {
              "id": 2,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165003_1.jpg",
-            "h1": "Solid Tshirt",
+            "h1": "Polo Tshirt",
             "code": "3743877384",
-            "price": "Rs. 1399"
+            "price": "Rs. 1699"
         },
 
         {
@@ -29,7 +29,7 @@
              "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165402_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
-            "price": "Rs. 1399"
+            "price": "Rs. 1699"
         },
 
         {
@@ -37,7 +37,7 @@
              "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165403_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
-            "price": "Rs. 1399"
+            "price": "Rs. 1999"
         },
 
         {
@@ -45,7 +45,7 @@
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165500_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
-            "price": "Rs. 1399"
+            "price": "Rs. 1999"
         },
 
         {
@@ -53,7 +53,7 @@
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165102_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
-            "price": "Rs. 1399"
+            "price": "Rs. 1699"
         },
 
         {
@@ -61,7 +61,7 @@
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C173004_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
-            "price": "Rs. 1399"
+            "price": "Rs. 1999"
         },
 
         {
@@ -95,17 +95,7 @@
             "code": "3743877384",
             "price": "Rs. 1399"
         }
-
-
-
-
-    ],
-
-    "comments": [
-        {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode"
-        }
     ]
+
+    
 }
