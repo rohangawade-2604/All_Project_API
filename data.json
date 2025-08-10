@@ -2,7 +2,7 @@
     "posts": [
         {
             "id": 1,
-           "img": "../",
+           "img": "/cr1.png",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
@@ -10,7 +10,7 @@
 
         {
              "id": 2,
-            "img": "/assets/cr2.png",
+            "img": "../All_Project_API/assets/cr1.png",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
@@ -18,7 +18,7 @@
 
         {
              "id": 3,
-            "img": "/assets/cr3.png",
+           "img": "../All_Project_API/assets/cr1.png",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
@@ -26,7 +26,7 @@
 
         {
              "id": 4,
-            "img": "/assets/cr4.png",
+            "img": "../All_Project_API/assets/cr1.png",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
@@ -34,7 +34,7 @@
 
         {
              "id": 5,
-            "img": "/assets/cr1.png",
+            "img": "../Asics-/Asics/src/assets/cr1.png",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
@@ -42,7 +42,7 @@
 
         {
              "id": 6,
-            "img": "/assets/cr1.png",
+           "img": "../All_Project_API/assets/cr1.png",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
