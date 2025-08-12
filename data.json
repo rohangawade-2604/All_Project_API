@@ -4,7 +4,7 @@
             "id": 1,
            "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2011D106001_1.jpg",
             "h1": "Solid Tshirt",
-            "code": "4fhdj4252",
+            "code": "452125263",
             "price": "Rs. 1399"
         },
 
@@ -95,7 +95,49 @@
             "code": "3743877384",
             "price": "Rs. 1399"
         }
-    ]
+    ],
 
-    
+    "Coaches":[
+        {
+            "id": 1,
+            "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file_50_.jpg",
+            "name":"Deepa Nayak",
+            "coach":"Coach , Bangalore"
+        },
+
+        {
+            "id": 2,
+            "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file_50_.jpg",
+            "name":"Girish Bindra",
+            "coach":"Coach , Mumbai"
+        },
+
+        {
+            "id": 3,
+            "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file_50_.jpg",
+            "name":"Ravindra Singh",
+            "coach":"Coach , Gurugham"
+        },
+
+        {
+            "id": 4,
+            "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file_50_.jpg",
+            "name":"Megha Kishore",
+            "coach":"Coach , Delhi"
+        },
+
+        {
+            "id": 5,
+            "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file_50_.jpg",
+            "name":"Amarjit Singh",
+            "coach":"Coach , Chandigarh"
+        },
+
+        {
+            "id": 6,
+            "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/noida_coach.jpg",
+            "name":"Rekha Rawat",
+            "coach":"Coach , Noida"
+        }
+    ]
 }
