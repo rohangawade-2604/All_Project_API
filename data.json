@@ -2,178 +2,157 @@
     "posts": [
         {
             "id": 1,
-           "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2011D106001_1.jpg",
+            "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2011D106001_1.jpg",
             "h1": "Solid Tshirt",
             "code": "452125263",
             "price": "Rs. 1399"
         },
-
         {
-             "id": 2,
+            "id": 2,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165003_1.jpg",
             "h1": "Polo Tshirt",
             "code": "3743877384",
             "price": "Rs. 1699"
         },
-
         {
-             "id": 3,
+            "id": 3,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165022_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
         },
-
         {
-             "id": 4,
-             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165402_1.jpg",
+            "id": 4,
+            "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165402_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1699"
         },
-
         {
-             "id": 5,
-             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165403_1.jpg",
+            "id": 5,
+            "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165403_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1999"
         },
-
         {
-             "id": 6,
+            "id": 6,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165500_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1999"
         },
-
         {
-             "id": 7,
+            "id": 7,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C165102_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1699"
         },
-
         {
-             "id": 8,
+            "id": 8,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C173004_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1999"
         },
-
         {
-             "id": 9,
+            "id": 9,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C173101_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
         },
-
         {
-             "id": 10,
+            "id": 10,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/2031C173401_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
         },
-
         {
-             "id": 11,
+            "id": 11,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/ASI01_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
         },
-
         {
-             "id": 12,
+            "id": 12,
             "img": "https://www.asics.co.in/media/wysiwyg/bulk-enquiry/ASI03_1.jpg",
             "h1": "Solid Tshirt",
             "code": "3743877384",
             "price": "Rs. 1399"
         }
     ],
-
-    "Coaches":[
+    "Coaches": [
         {
             "id": 1,
             "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file_50_.jpg",
-            "name":"Deepa Nayak",
-            "coach":"Coach , Bangalore"
+            "name": "Deepa Nayak",
+            "coach": "Coach , Bangalore"
         },
-
         {
             "id": 2,
             "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file.pcp_3_.jpg",
-            "name":"Girish Bindra",
-            "coach":"Coach , Mumbai"
+            "name": "Girish Bindra",
+            "coach": "Coach , Mumbai"
         },
-
         {
             "id": 3,
             "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file_51_.jpg",
-            "name":"Ravindra Singh",
-            "coach":"Coach , Gurugham"
+            "name": "Ravindra Singh",
+            "coach": "Coach , Gurugham"
         },
-
         {
             "id": 4,
             "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/file_49_.jpg",
-            "name":"Megha Kishore",
-            "coach":"Coach , Delhi"
+            "name": "Megha Kishore",
+            "coach": "Coach , Delhi"
         },
-
         {
             "id": 5,
             "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/CHANDIGARH_coach.jpg",
-            "name":"Amarjit Singh",
-            "coach":"Coach , Chandigarh"
+            "name": "Amarjit Singh",
+            "coach": "Coach , Chandigarh"
         },
-
         {
             "id": 6,
             "img": "https://www.asics.co.in/media/.renditions/wysiwyg/homepage/noida_coach.jpg",
-            "name":"Rekha Rawat",
-            "coach":"Coach , Noida"
+            "name": "Rekha Rawat",
+            "coach": "Coach , Noida"
         }
     ],
-
-
-   "Mens_shoes_product": [
-    {
-      "id": 1,
-      "src": [
-        "https://www.asics.co.in/media/catalog/product/1/0/1011c052_002_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
-        "https://www.asics.co.in/media/catalog/product/resized/100x150/1/0/sw_1011c132_100_sr_rt_glb.jpg?auto=webp&format=pjpg&width=40&height=54&fit=cover"
-      ],
-      "h1": "GEL-KAYANO 32 ATC",
-      "p": "Mens Running Shoes",
-      "Rs": "Rs. 16,999"
-    },
-
-     {
-      "id": 2,
-      "src": [
-        "https://www.asics.co.in/media/catalog/product/1/0/1011c135_100_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
-        "https://www.asics.co.in/media/catalog/product/resized/100x150/1/0/sw_1011c135_100_sr_rt_glb.jpg?auto=webp&format=pjpg&width=40&height=54&fit=cover"
-      ],
-      "h1": "GEL-CUMULUS 27 ATC",
-      "p": "Men Running Shoes",
-      "Rs": "Rs. 12,999"
-    },
-
-      {
-      "id": 3,
-      "src": [
-        "https://www.asics.co.in/media/catalog/product/1/0/1011c137_100_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
-        "https://www.asics.co.in/media/catalog/product/resized/100x150/1/0/sw_1011c137_100_sr_rt_glb.jpg?auto=webp&format=pjpg&width=40&height=54&fit=cover"
-      ],
-      "h1": "NOVABLAST 5 ATC",
-      "p": "Mens Running Shoes",
-      "Rs": "Rs. 13,999"
-    }
-  ]
+    "Mens_shoes_product": [
+        {
+            "id": 1,
+            "src": [
+                "https://www.asics.co.in/media/catalog/product/1/0/1011c132_100_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=3200&width=2560&auto=webp&format=pjpg",
+                "https://www.asics.co.in/media/catalog/product/resized/100x150/1/0/sw_1011c132_100_sr_rt_glb.jpg?auto=webp&format=pjpg&width=40&height=54&fit=cover"
+            ],
+            "h1": "GEL-KAYANO 32 ATC",
+            "p": "Mens Running Shoes",
+            "Rs": "Rs. 16,999"
+        },
+        {
+            "id": 2,
+            "src": [
+                "https://www.asics.co.in/media/catalog/product/1/0/1011c135_100_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
+                "https://www.asics.co.in/media/catalog/product/resized/100x150/1/0/sw_1011c135_100_sr_rt_glb.jpg?auto=webp&format=pjpg&width=40&height=54&fit=cover"
+            ],
+            "h1": "GEL-CUMULUS 27 ATC",
+            "p": "Men Running Shoes",
+            "Rs": "Rs. 12,999"
+        },
+        {
+            "id": 3,
+            "src": [
+                "https://www.asics.co.in/media/catalog/product/1/0/1011c137_100_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
+                "https://www.asics.co.in/media/catalog/product/resized/100x150/1/0/sw_1011c137_100_sr_rt_glb.jpg?auto=webp&format=pjpg&width=40&height=54&fit=cover"
+            ],
+            "h1": "NOVABLAST 5 ATC",
+            "p": "Mens Running Shoes",
+            "Rs": "Rs. 13,999"
+        }
+    ]
 }
