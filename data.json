@@ -184,8 +184,8 @@
         {
             "id": 3,
             "src": [
-                "https://www.asics.co.in/media/catalog/product/1/0/1011c051_400_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=3200&width=2560&auto=webp&format=pjpg",
                 "https://www.asics.co.in/media/catalog/product/1/0/1011c052_002_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
+                "https://www.asics.co.in/media/catalog/product/1/0/1011c051_400_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=3200&width=2560&auto=webp&format=pjpg",
                 "https://www.asics.co.in/media/catalog/product/1/0/1011c052_003_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
                 "https://www.asics.co.in/media/catalog/product/1/0/1011c052_020_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg"
             ],
@@ -245,6 +245,20 @@
         },
 
         {
+            "id": 8,
+            "src": [
+                "https://www.asics.co.in/media/catalog/product/1/0/1011c052_020_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
+               "https://www.asics.co.in/media/catalog/product/1/0/1011c052_002_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
+                "https://www.asics.co.in/media/catalog/product/1/0/1011c052_003_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
+                "https://www.asics.co.in/media/catalog/product/1/0/1011c052_020_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg"
+            ],
+            "h1": "GEL-KAYANO 32 WIDE",
+            "p": "Mens Running Shoes",
+            "Rs": "Rs. 16,999"
+        }
+
+
+         {
             "id": 8,
             "src": [
                 "https://www.asics.co.in/media/catalog/product/1/0/1011c052_020_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
