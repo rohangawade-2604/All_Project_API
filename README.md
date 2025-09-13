@@ -18,3 +18,4 @@ Before Deploying the json-server need to know what changes you need to do..
  6. And most imp thing . just make the repositories and directly write npm i json-server , 
   
   note- Don't make folder and create json-server file , it will create issues...
+  nothing 
