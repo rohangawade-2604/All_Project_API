@@ -1,5 +1,5 @@
 {
-   "mens": [
+    "mens": [
         {
             "id": 1,
             "src": [
@@ -20,7 +20,12 @@
                 "Rs. 17,999",
                 "Rs. 17,999",
                 "Rs. 7,999"
-            ]
+            ],
+            
+            "category": "SHOES",
+            "activity": "RUNNING",
+            "gender": "MEN",
+            "pronation": "NEUTRAL"
         },
         {
             "id": 2,
@@ -30,7 +35,6 @@
                 "https://www.asics.co.in/media/catalog/product/1/0/1012b838_400_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg",
                 "https://www.asics.co.in/media/catalog/product/1/0/1012b838_401_sr_rt_glb.jpg?optimize=high&bg-color=255%2C255%2C255&fit=cover&height=800&width=640&auto=webp&format=pjpg"
             ],
-            
             "h1": [
                 "GEL-KAYANO 32 ATC",
                 "GEL-KAYANO 32 ATC",
@@ -43,7 +47,10 @@
                 "Rs. 17,999",
                 "Rs. 17,999",
                 "Rs. 7,999"
-            ]
+            ],
+            "category": "SHOES",
+         
+            "pronation": "NEUTRAL"
         },
         {
             "id": 3,
@@ -65,7 +72,10 @@
                 "Rs. 17,999",
                 "Rs. 17,999",
                 "Rs. 7,999"
-            ]
+            ],
+            "category": "SHOES",
+           
+            "pronation": "NEUTRAL"
         },
         {
             "id": 4,
@@ -87,7 +97,10 @@
                 "Rs. 17,999",
                 "Rs. 17,999",
                 "Rs. 7,999"
-            ]
+            ],
+            "category": "SHOES",
+            "activity": "RUNNING"
+         
         },
         {
             "id": 5,
@@ -103,9 +116,11 @@
             "Rs": [
                 "Rs. 17,999",
                 "Rs. 17,999"
-            ]
+            ],
+            "category": "SHOES",
+            "activity": "RUNNING"
+        
         },
-
         {
             "id": 6,
             "src": [
@@ -126,7 +141,10 @@
                 "Rs. 17,999",
                 "Rs. 17,999",
                 "Rs. 7,999"
-            ]
+            ],
+            
+            "gender": "WOMEN",
+            "pronation": "NEUTRAL"
         },
         {
             "id": 7,
@@ -148,7 +166,10 @@
                 "Rs. 17,999",
                 "Rs. 17,999",
                 "Rs. 7,999"
-            ]
+            ],
+            "category": "SHOES",
+            "activity": "RUNNING"
+           
         },
         {
             "id": 8,
@@ -170,7 +191,9 @@
                 "Rs. 17,999",
                 "Rs. 17,999",
                 "Rs. 7,999"
-            ]
+            ],
+            "category": "SHOES"
+          
         },
         {
             "id": 9,
@@ -186,7 +209,11 @@
             "Rs": [
                 "Rs. 17,999",
                 "Rs. 17,999"
-            ]
+            ],
+            "category": "SHOES",
+            "activity": "RUNNING",
+         
+            "pronation": "NEUTRAL"
         },
         {
             "id": 10,
@@ -202,7 +229,11 @@
             "Rs": [
                 "Rs. 17,999",
                 "Rs. 17,999"
-            ]
+            ],
+            "category": "SHOES",
+          
+            "gender": "WOMEN",
+            "pronation": "NEUTRAL"
         },
         {
             "id": 11,
@@ -218,7 +249,11 @@
             "Rs": [
                 "Rs. 17,999",
                 "Rs. 17,999"
-            ]
+            ],
+            "category": "SHOES",
+            "activity": "RUNNING",
+            "gender": "WOMEN",
+            "pronation": "NEUTRAL"
         },
         {
             "id": 12,
@@ -234,7 +269,11 @@
             "Rs": [
                 "Rs. 17,999",
                 "Rs. 17,999"
-            ]
+            ],
+            "category": "SHOES",
+            
+            "gender": "WOMEN",
+            "pronation": "NEUTRAL"
         },
         {
             "id": 13,
@@ -250,8 +289,10 @@
             "Rs": [
                 "Rs. 17,999",
                 "Rs. 17,999"
-            ]
+            ],
+            "category": "SHOES",
+            "activity": "RUNNING"
+            
         }
     ]
-  
 }
